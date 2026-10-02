@@ -3,7 +3,7 @@
 **Tools:** MySQL, Tableau, Figma
 **Published:** July 19, 2024
 **Skills:** analytical approach
-**Live dashboard:** [Tableau Public](https://public.tableau.com/views/SalesProfitAnalysis_Sales-CustomerDashboards/CustomerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Sales Dashboard](output/dashboard.png)](https://public.tableau.com/views/SalesProfitAnalysis_Sales-CustomerDashboards/CustomerDashboard)
 
 ## The question
 
