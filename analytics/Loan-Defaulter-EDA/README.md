@@ -59,6 +59,9 @@ loan-defaulter-eda/
 
 ## Resources
 
-This was a learning project. Concepts came from the [Code Basics](https://www.youtube.com/@codebasics) and [Tech Classes](https://www.youtube.com/@techclasses0810) YouTube channels, plus [yashpaneliya/Bank-Loan-Default-Analysis](https://github.com/yashpaneliya/Bank-Loan-Default-Analysis.git). ChatGPT and the [Denigma Code Explainer](https://denigma.app/) helped explain code, and several cells in the notebook carry step-by-step explanations.
+This was a learning project. Concepts came from the [Code Basics](https://www.youtube.com/@codebasics) and [Tech Classes](https://www.youtube.com/@techclasses0810) YouTube channels. ChatGPT and the [Denigma Code Explainer](https://denigma.app/) helped explain code, and several cells in the notebook carry step-by-step explanations.
 
 Data: [Kaggle - Loan Defaulter](https://www.kaggle.com/datasets/gauravduttakiit/loan-defaulter)
+
+---
+*If you find any errors, feel free to email me at [sushant.kr.jha02@gmail.com](mailto:@sushant.kr.jha02@gmail.com).*
