@@ -21,30 +21,6 @@ Right now the repo has analytics and teardown projects. The other folders will f
 
 ---
 
-## Analytics
-
-| Project | What it is | Tools | Date | Link |
-| --- | --- | --- | --- | --- |
-| [**Pizza Sales Analysis**](./analytics/pizza-sales-analysis) | Sales analysis dashboard built on MySQL and Excel | MySQL, Excel, Figma | Jul 2024 | [Open](ADD_LINK) |
-| [**EDA on Bank Loan Defaulters**](./analytics/bank-loan-defaulters-eda) | Exploratory data analysis of loan defaulters | Python | Jul 2024 | [Notebook](./analytics/bank-loan-defaulters-eda) |
-| [**HR Data Analysis Dashboard**](./analytics/hr-analytics-dashboard) | Overview and detailed HR dashboard | Tableau, Figma, AI | Jul 2024 | [Open](ADD_LINK) |
-| [**Sales & Profit Analysis Dashboard**](./analytics/sales-profit-dashboard) | Sales and customer dashboards | Tableau, Figma | Jul 2024 | [Open](ADD_LINK) |
-
-## Teardowns
-
-| Project | What it is | Tools | Date | Link |
-| --- | --- | --- | --- | --- |
-| [**Netflix Product Teardown**](./teardowns/netflix-product-teardown) | A product teardown of Netflix, presented as a deck | Figma, AI | Jul 2024 | [Open](ADD_LINK) |
-
-## Automation
-
-Coming soon.
-
-## Case studies
-
-Coming soon.
-
----
 
 ## Repo layout
 
