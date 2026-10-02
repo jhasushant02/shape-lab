@@ -2,8 +2,6 @@
 
 **Tools:** Tableau, Python (pandas, Faker), ChatGPT, Figma | **Skills:** dashboard design, synthetic data generation, analytical thinking
 
-Live dashboard (Tableau Public): https://public.tableau.com/views/HRDashboard_Dummy/HRSummary
-
 [![HR Data Analysis Dashboard](output/dashboard.png)](https://public.tableau.com/views/HRDashboard_Dummy/HRSummary)
 
 ## The question
@@ -48,3 +46,6 @@ Design for the person using it before touching the tool. Deciding what an HR man
 - The data is entirely synthetic, so nothing here says anything about real workforces.
 - The generator has known quirks (the manager age rule never applies, birthdates are not tied to hire dates, terminations bunch up after the 6-month rule, employee IDs are not checked for uniqueness). They are listed in [`data/README.md`](data/README.md).
 - The workbook and screenshots are not in this repo yet; add them to `analysis/` and `output/`.
+
+---
+*If you find any errors, feel free to email me at [sushant.kr.jha02@gmail.com](mailto:@sushant.kr.jha02@gmail.com).*
