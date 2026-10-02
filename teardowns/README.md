@@ -6,7 +6,7 @@ Product and business teardowns. I take something people use every day, pull it a
 
 | Project | What it is | Tools |
 | --- | --- | --- |
-| [Netflix Product Teardown](./netflix-product-teardown) | A product teardown of Netflix, presented as a deck | Figma, AI |
+| [Netflix Product Teardown](https://drive.google.com/file/d/1jc1eK-B2BhIlsa3WX2XaqQtG5PPbVzJM/view) | A product teardown of Netflix, presented as a deck | Figma, AI |
 
 ## What belongs here
 
