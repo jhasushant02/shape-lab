@@ -92,3 +92,6 @@ pizza-sales-analysis/
 
 - The workbook is about 18 MB, comfortably under GitHub's 100 MB file limit.
 - Dataset credit: Kaggle, "Pizza Sales Case Study".
+
+---
+*If you find any errors, feel free to email me at [sushant.kr.jha02@gmail.com](mailto:@sushant.kr.jha02@gmail.com).*
