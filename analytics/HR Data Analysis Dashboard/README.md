@@ -4,6 +4,8 @@
 
 Live dashboard (Tableau Public): https://public.tableau.com/views/HRDashboard_Dummy/HRSummary
 
+[![HR Data Analysis Dashboard](output/dashboard.png)](https://public.tableau.com/views/HRDashboard_Dummy/HRSummary)
+
 ## The question
 
 What would an HR manager actually need to see? A quick summary of the workforce, and enough detail to look up one specific employee. I wanted to build that dashboard but had no real HR data, so the first job was creating a dataset that looks like a real HR system export.
