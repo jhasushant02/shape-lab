@@ -2,9 +2,7 @@
 
 A product teardown of Netflix, framed around one problem statement: **increase user engagement and retention for the app.**
 
-**Deliverable:** [`analysis/NETFLIX_Product_Teardown.pdf`](analysis/NETFLIX_Product_Teardown.pdf)
-
-![Netflix Product Teardown cover](output/cover.png)
+[![Netflix Product Teardown cover](output/cover.png)](analysis/NETFLIX_Product_Teardown.pdf)
 
 ## The question
 
