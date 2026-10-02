@@ -59,3 +59,5 @@ netflix-product-teardown/
 ├── analysis/      the teardown deck (PDF)
 └── output/        cover image
 ```
+---
+*If you find any errors, feel free to email me at [sushant.kr.jha02@gmail.com](mailto:@sushant.kr.jha02@gmail.com).*
