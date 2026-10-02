@@ -3,8 +3,11 @@
 **Tools:** MySQL, Tableau, Figma
 **Published:** July 19, 2024
 **Skills:** analytical approach
-**Live dashboard:** [Tableau Public](https://public.tableau.com/views/SalesProfitAnalysis_Sales-CustomerDashboards/CustomerDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+---
 
+[![Sales Dashboard](output/dashboard.png)](https://public.tableau.com/views/SalesProfitAnalysis_Sales-CustomerDashboards/CustomerDashboard)
+
+---
 ## The question
 
 What would sales managers and executives actually use, rather than a dashboard for the sake of having one? Sales performance and customer behavior are different questions, so I built two separate dashboards instead of cramming both into one view.
