@@ -107,3 +107,6 @@ Screenshots or a link to the live dashboard.
 ## Connect
 
 [GitHub](https://github.com/jhasushant02) · [LinkedIn](https://linkedin.com/in/isushantjha) · [Portfolio](https://sushant-jha.super.site/) · [Blog](https://sushant-jha.super.site/my-blogs)
+
+---
+*Structure will be for new projects. Old might feel unstructured - Sorry for that*
