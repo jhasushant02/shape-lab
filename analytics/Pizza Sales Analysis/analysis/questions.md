@@ -1,31 +1,34 @@
-List of Questions:
------
+# Questions
+
+The 23 business questions answered in `pizza_sales_queries.sql` (numbering matches the SQL file).
+
+**Basic KPIs**
 1. Retrieve the total number of orders placed.
 2. Calculate the total revenue generated from pizza sales.
 3. Calculate the total pizza sold.
 4. Identify the highest-priced pizza.
 5. Identify the most common pizza size ordered.
-6. Calculate the percentage sales by pizza size
+
+**Size and category**
+6. Calculate the percentage sales by pizza size.
 7. Calculate the total pizza sold by each pizza category.
 8. List the top 5 most ordered pizza types along with their quantities.
 9. List the least 5 ordered pizza types along with their quantities.
 10. Join the necessary tables to find the total quantity of each pizza category ordered.
 11. Join the necessary tables to find the percentage sales by each pizza category.
-12. Determine the daily trend of orders
-13. Determine the hourly trend of orders
+
+**Time trends**
+12. Determine the daily trend of orders.
+13. Determine the hourly trend of orders.
 14. Determine the distribution of orders by hour of the day.
 15. Join relevant tables to find the category-wise distribution of pizzas.
 16. Calculate the average number of pizzas ordered per day.
-17. Calculate the average order per value.
+
+**Averages and revenue**
+17. Calculate the average order value.
 18. Calculate the average pizzas per order.
 19. Determine the top 3 most ordered pizza types based on revenue.
 20. Calculate the percentage contribution of each pizza type to total revenue.
 21. Analyze the revenue generated per day and the percentage contribution to total revenue.
 22. Analyze the cumulative revenue generated over time.
 23. Determine the top 3 most ordered pizza types based on revenue for each pizza category.
-
-
-
-
-
-
